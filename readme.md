@@ -15,3 +15,6 @@ To start the training script you can run:
 ```console
 foo@bar:~$ python3 train.py
 ```
+
+## Credit
+Credit to ['geochri'](https://github.com/geochri/AlphaZero_Chess/tree/master) for inspiration to this project.
