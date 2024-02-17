@@ -1,6 +1,6 @@
 # Chess Engine
 
-Building a chess engine from scratch with front-end in PyGame and backend using bitboard storage of 
+Chess engine PyTorch architecture based on original AlphaZero trained using Monte Carlo Tree Search through self-play. Front-end incorporates a simple PyGame chess game where you can challenge AlphaZero.
 
 ## Start the game 🎮
 
